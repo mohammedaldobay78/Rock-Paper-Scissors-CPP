@@ -8,7 +8,7 @@ A clean, modular console-based implementation of the classic **Rock, Paper, Scis
 
 ## 🎮 Features
 
-- **Custom Rounds:** Choose how many rounds you want to play per session (1–10).
+- **Custom Rounds:** Choose how many rounds you want to play per session
 - **Randomized AI:** Computer moves are pseudo-randomly generated using seed initialization (`srand`).
 - **Score Tracking:** Tracks Player wins, Computer wins, and Draws throughout each match.
 - **Game Summary:** Displays an end-game score table declaring the overall winner.
