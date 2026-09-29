@@ -1,6 +1,3 @@
-إليك ملف **`README.md`** كاملاً ومدمجاً بعد إضافة التعديلات:
-
-```markdown
 # Rock, Paper, Scissors Game (C++)
 
 A clean, modular console-based implementation of the classic **Rock, Paper, Scissors** game built in C++.
